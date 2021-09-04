@@ -4,4 +4,4 @@ This sample is to show a simple OTP verification dialog. Totally written by usin
 
 Demo:
 
-<img src="https://github.com/nthuat/OTPComposeSample/blob/main/demo/otp_demo.gif" width="500" />
+<img src="https://github.com/nthuat/OTPComposeSample/blob/main/demo/otp_demo.gif" width="300" />
